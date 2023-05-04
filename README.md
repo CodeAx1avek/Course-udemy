@@ -9,6 +9,7 @@ A python script that scrap something...
 To deploy this project run
 
 ```bash
+git clone https://github.com/CodeAx1avek/Course-udemy.git
   apt-get update
   apt-get upgrade
   cd Course-udemy
